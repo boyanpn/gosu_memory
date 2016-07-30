@@ -1,0 +1,3 @@
+engine:  https://www.libgosu.org/
+graphics: http://game-icons.net/
+          http://pulkomandy.tk/projects/GrafX2
