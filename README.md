@@ -6,7 +6,7 @@ test specs: 32 bit windows 7 + ruby 2.2.4 + gosu 0.10.7
 # License
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2016] [github user - @boyanpn]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
